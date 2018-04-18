@@ -1,0 +1,14 @@
+{
+  "name": "notifi",
+  "version": "0.0.1",
+  "description": "notifi",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "enzyme": "^3.0.0",
+    "enzyme-adapter-react-13": "^1.0.0",
+    "karma": ">=0.10.9",
+    "webpack": "^2.0.0"
+  },
+  "author": "notifi"
+}

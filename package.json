@@ -8,7 +8,8 @@
     "enzyme": "^3.0.0",
     "enzyme-adapter-react-13": "^1.0.0",
     "karma": ">=0.10.9",
-    "webpack": "^2.0.0"
+    "webpack": "^2.0.0", 
+    "html-pdf": "1.1.0",
   },
   "author": "notifi"
 }
